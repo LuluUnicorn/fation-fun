@@ -1,8 +1,11 @@
 html {
   background-color: pink;
+  display: flex;
+  justify-content:center;
 }
 h1 {
   background-color: blue;
+  
 }
 p{
   background-color: purple;
